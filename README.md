@@ -52,7 +52,7 @@ streamlit run app.py
 
 ## 🔹 Author
 👩‍💻 **Bisma Munir**  
-- GitHub: [yourusername](https://github.com/yourusername)  
-- LinkedIn: [linkedin.com/in/bisma-munir](https://linkedin.com/in/bisma-munir)  
+- GitHub: [yourusername](https://github.com/bisma474)  
+- LinkedIn: [linkedin.com/in/bisma-munir](https://www.linkedin.com/in/bisma-m-a9055b30a/)  
 
 ---
