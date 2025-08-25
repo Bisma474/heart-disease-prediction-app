@@ -50,20 +50,6 @@ streamlit run app.py
 ├── README.md              # Project documentation
 ```
 
----
-
-## 🔹 Screenshots
-(Add some screenshots of your Streamlit app here)
-
----
-
-## 🔹 Future Improvements
-- Add more ML models for comparison (Logistic Regression, SVM, etc.)  
-- Deploy app on **Streamlit Cloud / Heroku** for public access  
-- Enhance UI with more interactive charts  
-
----
-
 ## 🔹 Author
 👩‍💻 **Bisma Munir**  
 - GitHub: [yourusername](https://github.com/yourusername)  
